@@ -29,3 +29,4 @@ INICIALIZAR UN REPOSITORIO:
 1º git status
 2º git init
 3º git add .  (agregar todos los cambios)
+4º git commit -m "changes"
