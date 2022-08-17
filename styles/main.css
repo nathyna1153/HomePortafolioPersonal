@@ -10,7 +10,7 @@ body {
   height: 100vh;
   display: grid;
   place-items: center;
-  background-image: url(/images/3tecnologia.jpg);
+  background-image: url("../images/3tecnologia.jpg");
 }
 
 .page-wrapper {
