@@ -10,7 +10,7 @@ body {
   height: 100vh;
   display: grid;
   place-items: center;
-  background-color: black;
+  background-image: url(/images/3tecnologia.jpg);
 }
 
 .page-wrapper {
@@ -27,10 +27,18 @@ h1 {
 }
 
 p {
-  color: rgb(192, 84, 208);
+  color: rgb(23, 219, 226);
   font-family: "Comfortaa", cursive;
   font-size: 1.5em;
   margin: 15px 0;
+}
+
+.presentacion{
+  color:white;
+  font-family: "Comfortaa", cursive;
+  font-size: 1.5em;
+  margin: 15px 0;
+
 }
 
 .divider {
